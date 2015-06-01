@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -g2 -Map=Test.map -O0 --gc-sections -LC:/Users/Student/CoIDE/workspace/runningLED_yield -TC:/Users/Student/CoIDE/workspace/runningLED_yield/stm32f407vg_flash.ld -g">
+      <target file="Test.elf" lastModified="14dae43e035">
+         <source file="..\obj\main.o" lastModified="14dae43dde4"/>
+         <source file="..\obj\stm32f4xx_hal_cortex.o" lastModified="14dae3f0581"/>
+         <source file="..\obj\Times.o" lastModified="14dae43de42"/>
+         <source file="..\obj\configuration.o" lastModified="14dae3f069a"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="14dae3f05c0"/>
+         <source file="..\obj\stm32f4xx_hal.o" lastModified="14dae3f040b"/>
+         <source file="..\obj\stm32f4xx_hal_gpio.o" lastModified="14dae3f063d"/>
+         <source file="..\obj\LED.o" lastModified="14dae3f06f8"/>
+         <source file="..\obj\stm32f4xx_hal_rcc.o" lastModified="14dae3f0505"/>
+         <source file="..\obj\startup_stm32f429xx.o" lastModified="14dae3f038e"/>
+      </target>
+   </processor>
+</history>
